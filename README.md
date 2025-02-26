@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Hello World! I'm Karen
 
-<!--
-**krunggggggg/krunggggggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer | 💻 Cloud Enthusiast | 🌏 From Philippines  
+*"Turning coffee into code and ideas into innovative solutions"*
 
-Here are some ideas to get you started:
+[![Profile Views](https://komarev.com/ghpvc/?username=krunggggggg&label=Profile+Views&color=blue&style=flat)](https://github.com/krunggggggg)
+[![Email](https://img.shields.io/badge/-Reach%20Out%20📧-critical?style=flat&logo=gmail)](mailto:karennipin86@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌐 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![Blog](https://img.shields.io/badge/Personal_Blog-Read-%23FF4088?style=flat&logo=medium)](https://yourblog.com)
+
+---
+
+### 🛠️ Tech Stack
+
+#### Cloud & DevOps
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+
+#### Frontend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+
+#### Backend
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+
+#### Databases
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+
+---
+
+### 📊 GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunggggggg&layout=compact&theme=radical)](https://github.com/krunggggggg)
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=krunggggggg&theme=radical)](https://git.io/streak-stats)
+
+</div>
