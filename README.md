@@ -11,8 +11,8 @@
 ---
 
 ### 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/karen-nipin/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-%231DA1F2?style=flat&logo=twitter)](https://x.com/krunggggggg_)
 
 
 ---
