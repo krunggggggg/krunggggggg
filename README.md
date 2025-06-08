@@ -18,6 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunggggggg&layout=compact&theme=radical)](https://github.com/krunggggggg)
   
-[![GitHub Streak](https://streak-stats.demolab.com/?user=krunggggggg&theme=radical)](https://git.io/streak-stats)
+
 
 </div>
